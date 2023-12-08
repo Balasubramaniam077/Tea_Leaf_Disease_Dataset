@@ -1,4 +1,4 @@
-# Tea Leaf Dataset 
+# Tea Leaf Dataset - Details
 
 
 Tea is not just a tasty drink; it's like a cozy hug in a cup. People all around the world love it because it gives a break from the busyness of life. Whether you're enjoying it alone or with friends, tea brings warmth and a moment to relax. It's not just about the yummy flavors; tea is a part of different cultures, like the special ceremonies in Japan or the afternoon tea in England. Tea isn't just a drink; it's a symbol of being friendly, wise, and keeping traditions alive. No matter where you are, tea connects people and makes everyday moments special.
