@@ -26,5 +26,8 @@ Identifying key points in the images that correspond to disease-affected areas.
 Profiling these points with relevant information, such as disease severity, affected leaf regions, and any other pertinent details.
 Providing a professional and comprehensive analysis of the disease impact based on the localized information.
 
+You can find you the published Dataset here : <a href="https://data.mendeley.com/datasets/68yy284sh9/1">	
+K-Kotagiri Tea Leaf Dataset</a>
+
 
 
