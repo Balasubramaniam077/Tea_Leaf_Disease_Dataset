@@ -28,9 +28,15 @@ Analyzing points from local features in the tea farm allows for a more detailed 
 
 This involves:
 
- --> Identifying key points in the images that correspond to disease-affected areas.
- --> Profiling these points with relevant information, such as disease severity, affected leaf regions, and any other pertinent details.
- --> Providing a professional and comprehensive analysis of the disease impact based on the localized information.
+
+Step : 1
+  Identifying key points in the images that correspond to disease-affected areas.
+
+Step : 2 
+  Profiling these points with relevant information, such as disease severity, affected leaf regions, and any other pertinent details.
+
+Step : 3 
+  Providing a professional and comprehensive analysis of the disease impact based on the localized information.
 
 
 # Publication
